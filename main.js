@@ -185,7 +185,7 @@ function fetchWeatherData() {
             app.style.opacity = "1";
         });
 }
-//Call the function on page load
+
 fetchWeatherData();
 //Fade in the page 
 app.style.opacity = "1";
